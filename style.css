@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+}
+
+li {
+  list-style-type: none;
+  color: red;
+}
+
+p {
+border-top: dotted blue
+}
